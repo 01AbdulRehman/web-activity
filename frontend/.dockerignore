@@ -1,0 +1,6 @@
+public/index.html
+node_modules
+npm-debug.log
+build
+.env.local
+.env.*.local
